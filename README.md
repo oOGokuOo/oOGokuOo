@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @oOGokuOo
 - 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning SQL basics
+- 🌱 I’m currently learning SQL
 
 
 
